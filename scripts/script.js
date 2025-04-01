@@ -13,3 +13,7 @@ console.log(container);
 let divStuff = document.querySelector(".divStuff");
 
 console.log(divStuff);
+
+let cool = document.querySelectorAll("h2");
+
+console.log(cool);
